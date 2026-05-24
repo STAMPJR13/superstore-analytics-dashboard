@@ -17,8 +17,6 @@ A profitability diagnostic on the public **Sample Superstore** dataset (9,994 or
 | **Loss rate (line items)** | **18.72%** |
 | Orders | 5,009 |
 
-The company is profitable **on average**, yet **nearly 1 in 5 line items is sold at a loss** — the winners are subsidizing a large pool of losers. This dashboard finds the losers.
-
 ---
 
 ## 📊 The dashboard
@@ -46,5 +44,4 @@ The company is profitable **on average**, yet **nearly 1 in 5 line items is sold
 3. **Protect Copiers' pricing** — most profitable line (+$55K); no volume discounts.
 4. **Pre-stock Q4 inventory** — the seasonal peak repeats every year.
 
-> The dashboard intentionally stops at the **diagnostic** layer. Forward-looking counterfactuals (e.g. a discount-cap simulation) are treated as hypotheses to validate with a pilot, not as charts.
 
